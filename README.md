@@ -1,1 +1,2 @@
-# musical-octo-lamp
+- p95 latency is 68ms -> add compound index, add redis cache in get endpoints
+- order creation concurrent checks -> 
